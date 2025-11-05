@@ -4,7 +4,7 @@ O projeto todo foi utilizando a abordagem de Saga Orquestrado, e pode ser visual
 ao final do curso, foi também incluída uma seção de aula bônus, ensinando aos alunos a como
 converter a arquitetura desenvolvida em um Padrão Saga Coreografado, para endenter a implementação e execução de Coreografia na Saga.
 
-![Arquitetura](doc/capa.png)
+![Arquitetura](doc/arquitetura.png)
 
 ### Sumário:
 
@@ -52,7 +52,7 @@ converter a arquitetura desenvolvida em um Padrão Saga Coreografado, para enden
 
 No curso, desenvolveremos a seguinte aquitetura:
 
-![Arquitetura](doc/capa.png)
+![Arquitetura](doc/arquitetura.png)
 
 Em nossa arquitetura, teremos 4 serviços:
 
